@@ -8,7 +8,7 @@ Mollusc shells in R using a [package by Marcus Volz](https://github.com/marcusvo
 
 ![](shell/output/shell-7.png)
 
-[View full gallery »](shell/output)
+[View full gallery »](shell/README.md)
 
 ## scribble
 
@@ -23,4 +23,4 @@ One of the resulting creations
 
 ![](scribble/output/scribble-2.png)
 
-[View full gallery »](scribble/output)
+[View full gallery »](scribble/README.md)
