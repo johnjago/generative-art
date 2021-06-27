@@ -2,13 +2,21 @@
 
 A gallery of generative art, with the newest on top.
 
+## lissajous
+
+Lissajous curves
+
+[View full gallery »](lissajous/README.md)
+
+![](lissajous/output/lissajous-8.png)
+
 ## shell
 
 Mollusc shells in R using a [package by Marcus Volz](https://github.com/marcusvolz/mathart).
 
-![](shell/output/shell-7.png)
-
 [View full gallery »](shell/README.md)
+
+![](shell/output/shell-7.png)
 
 ## scribble
 
@@ -21,6 +29,6 @@ Original
 
 One of the resulting creations
 
-![](scribble/output/scribble-2.png)
-
 [View full gallery »](scribble/README.md)
+
+![](scribble/output/scribble-2.png)
